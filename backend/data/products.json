@@ -1,0 +1,53 @@
+[
+    {
+        "name" : "Sandisk",
+        "price" : "300",
+        "description" : "Western Digital UK Ltd, 20F No. 918, Unit B,C,D Middle Huai Hai Zhong Road Shanghai 200020 PRC. SanDisk Semiconductor (Shanghai) Co., Ltd. 388 Jiang Chuan East Road, Minhang District, Shanghai, China 200241",
+        "ratings" : "4.3",
+        "images" : [
+            {
+                "public_id" : "1234haefanafeoa",
+                "url" : "https://rukminim1.flixcart.com/image/416/416/ki3gknk0/memory-card/microsdhc/v/h/z/sandisk-sdsqua4-032g-gn6mn-original-imafxyzwgscpjxb9.jpeg?q=70"
+            }
+        ],
+        "category" : "Electronics",
+        "seller" : "Ebay",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews" : []
+    },
+    {
+        "name" : "SanDisk DUAL DRIVE GO 32 OTG Drive",
+        "price" : "773",
+        "description" : "For Laptop, Desktop Computer, Mobile",
+        "ratings" : "4.3",
+        "images" : [
+            {
+                "public_id" : "1234haefanafkai",
+                "url" : "https://rukminim1.flixcart.com/image/416/416/k4ohqq80/pendrive/type-a-to-type-c/g/r/r/sandisk-dual-drive-go-original-imafnabfatpyjwcz.jpeg?q=70"
+            }
+        ],
+        "category" : "Electronics",
+        "seller" : "Ebay",
+        "stock" : 40,
+        "numOfReviews" : 40,
+        "reviews" : []
+    },
+    {
+        "name" : "DELL 24 inch WUXGA LED Backlit IPS Panel Monitor (U2415)",
+        "price" : "20299",
+        "description" : "Has your monitor become too slow? Are you not able to perform regular tasks like how you used to? Then it’s time you replaced it with this Dell monitor. This 60.96 cm monitor ensures good screen performance and helps boost your productivity.",
+        "ratings" : "4.4",
+        "images" : [
+            {
+                "public_id" : "1234haefanaafa",
+                "url" : "https://rukminim1.flixcart.com/image/416/416/kixgtjk0-0/monitor/j/y/b/u2415-u2415-dell-original-imafym3hvvfv6qmp.jpeg?q=70"
+            }
+        ],
+        "category" : "Electronics",
+        "seller" : "Amazon",
+        "stock" : 20,
+        "numOfReviews" : 12,
+        "reviews" : []
+    }
+]
