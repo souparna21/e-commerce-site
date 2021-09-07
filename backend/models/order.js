@@ -1,8 +1,8 @@
-const mongoose = require('mongoose');
+const mongoose = require('mongoose')
 
 const orderSchema = mongoose.Schema({
-    shippingInfo:{
-        addrress: {
+    shippingInfo: {
+        address: {
             type: String,
             required: true
         },
@@ -10,7 +10,7 @@ const orderSchema = mongoose.Schema({
             type: String,
             required: true
         },
-        phonrNo: {
+        phoneNo: {
             type: String,
             required: true
         },
@@ -40,7 +40,7 @@ const orderSchema = mongoose.Schema({
             },
             image: {
                 type: String,
-                required: true,
+                required: true
             },
             price: {
                 type: Number,
@@ -64,6 +64,7 @@ const orderSchema = mongoose.Schema({
     paidAt: {
         type: Date
     },
+
     itemsPrice: {
         type: Number,
         required: true,
@@ -89,13 +90,14 @@ const orderSchema = mongoose.Schema({
         required: true,
         default: 'Processing'
     },
-    deliverAt: {
+    deliveredAt: {
         type: Date
     },
     createdAt: {
         type: Date,
         default: Date.now
     }
+
 })
 
-module.exports = mongoose.model('order', orderSchema)
+module.exports = mongoose.model('Order', orderSchema)
